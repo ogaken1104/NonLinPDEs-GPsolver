@@ -8,3 +8,8 @@ __pycache__/
 test_*
 .ipynb*/
 data*
+
+*.sh
+*.err
+*.out
+*.png
